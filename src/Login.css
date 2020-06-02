@@ -1,0 +1,45 @@
+.image-login-page{
+    background-image: url('../src//Images//sky_img.jpg'); 
+    /* background: url('../src//Images//background_img.jpg') no-repeat center center fixed; */
+   /* // background-color:steelblue; */
+    background-position: center center; 
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    padding: 30px;
+    background-repeat: no-repeat;
+    opacity: 1;
+
+ }
+ .parent-div{
+     height: 40%;
+     width: 40%;
+     align-items: center;
+     align-content: right;
+     justify-content: center;
+     margin-left:30%;
+     margin-top: 40px;
+     
+      
+ }
+
+ .setFont {
+    font-size:15; 
+ }
+ .background-transparet{
+     margin-left: 65%;
+     font-size:18px; 
+     
+ }
+
+ .Container{
+     position:absolute;
+     justify-content: center;
+     left: 0;
+     top: 0;
+     width: 100%;
+     align-items: center;
+     height:100vh;  
+     align-content: center;
+     flex: 0;
+ }
